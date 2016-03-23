@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+body{width:1260px;
+background-color:#3CE1DF;
+margin:0 0 0 0;
+}
+.biaotou{
+	background-color:black;
+	width:1260px;
+	height:65px;
+	border:1px solid blue;}
+.baidu{width:800px;
+height:65px;
+float:left;
+margin:10px 0 0 5px;}
+.link1,.link2,.link3,.link4{margin-top:20px; width:94px; height:65px;}
+.link1{float:left;}
+.link2{float:left}
+.link3{float:left;}
+.link4{float:right; }
+.link4 a:link{color:#EFDFDF;}
+.first{width:68%; 
+height:auto; 
+border:1px solid black; 
+margin:20px 3px 0 3px;
+padding:3px 3px 3px 3px;
+background-color:#F3E9E9;}
+.first1{font-size:20px;
+font-weight:bold;
+margin:5px 0 3px 10px;}
+.first12{font-size:16px;
+margin:5px 0 3px 10px;}
+.author{font-size:10px;
+margin:5px 0 3px 10px;}
+#sheet{border-collapse:collapse;
+width:100%;}
+#sheet td,#sheet th{border:1px dotted #B1AEAE;}
+#sheet th{background-color:black;
+color:#F5F2F2;}
+.total{font-weight:bold;
+background-color:#969393;}
+.last1{font-size:16px;
+font-weight:bold;}
+.email{font-size:12px;
+text-align:right;
+margin-right:109px;
+margin-top:5px;}
+.b-style{font-size:12px;
+color:gray;
+margin-top:5px;
+margin-left:138px;}
+.sex{font-size:12px;
+margin-left:92px;
+margin-top:5px;}
+.person{font-size:12px;
+margin-left:70px;
+margin-top:5px;
+margin-bottom:5px;}
+.mybtn{background-color:#2F9C78;
+margin:0 auto;
+text-align:center;
+width:320px;}
+.sidebar{width:30%;
+height:auto; 
+border:1px solid black; 
+margin-top:0px;
+margin-left:3px; 
+padding:3px 3px 3px 3px;
+background-color:#F3E9E9;
+float:right;}
+.pic{width:122px;
+height:122px;
+float:left;
+border:1px gray solid;
+margin-bottom:3px;
+margin-right:20px;
+margin-top:3px;
+text-align:center;}
+.pic1{width:122px;
+height:122px;
+float:left;
+border:1px gray solid;
+margin-top:3px;
+text-align:center;}
+
